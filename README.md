@@ -1,13 +1,15 @@
 # Домашнее задание к занятию «Пакеты и циклы»
 
 ## Решение
-  * <a href="https://github.com/Nephedov/6.Java/blob/0c55a05ea2c4d8d7fb723ecc5e879476b4bc9105/src/main/java/ru/netology/sqr/SQRService.java">SQRService.java</a> - сервисный класс.
-  * <a href="https://github.com/Nephedov/6.Java/blob/0c55a05ea2c4d8d7fb723ecc5e879476b4bc9105/src/test/java/ru/netology/sqr/SQRServiceTest.java">SQRServiceTest.java</a> - тестовый класс.
+* <a href="https://github.com/Nephedov/6.Java/blob/main/src/main/java/ru/netology/sqr/SQRService.java">SQRService.java</a> - сервисный класс.
+* <a href="https://github.com/Nephedov/6.Java/blob/main/src/test/java/ru/netology/sqr/SQRServiceTest.java">SQRServiceTest.java</a> - автотест проверяющий сервисный класс.
 
 ## Что было сделано
-  * Создан Maven проект.
-  * Создан сервисный класс с методом, использующим цикл for.
-  * Создан тестовый класс с параметризированным тестом.
+* Создан Maven проект и настроен <a href="https://github.com/Nephedov/6.Java/blob/main/pom.xml">pom.xml</a> c плагинами и зависимостями:
+  * JunitJupiter.
+  * MavenSurefirePlugin.
+* Создан сервисный класс с <a href="https://github.com/Nephedov/6.Java/blob/main/src/main/java/ru/netology/sqr/SQRService.java">SQRService.java</a> методом, использующим цикл for.
+* Создан класс с параметризированным автотестом - <a href="https://github.com/Nephedov/6.Java/blob/main/src/test/java/ru/netology/sqr/SQRServiceTest.java">SQRServiceTest.java</a>.
 
 # Задание 1. Количество квадратов (обязательное к выполнению)
 
