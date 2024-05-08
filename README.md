@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «Пакеты и циклы»
+# «Пакеты и циклы»
 
 ## Решение
 * <a href="https://github.com/Nephedov/6.Java/blob/main/src/main/java/ru/netology/sqr/SQRService.java">SQRService.java</a> - сервисный класс.
